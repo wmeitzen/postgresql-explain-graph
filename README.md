@@ -1,6 +1,6 @@
 # PostgreSQL Explain Graph
 
-New documentation location: [wiki](/wiki).
+New documentation location: [/wiki](/postgresql-explain-graph/wiki).
 
 Old documentation location: [http://www.williammeitzen.com/postgresql-explain-graph/](http://www.williammeitzen.com/postgresql-explain-graph/)
 
