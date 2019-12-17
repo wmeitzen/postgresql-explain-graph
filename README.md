@@ -1,10 +1,12 @@
 # PostgreSQL Explain Graph
 
-New documentation location: [wiki](https://github.com/wmeitzen/postgresql-explain-graph/wiki).
+New documentation location: [wiki](../../../postgresql-explain-graph/wiki).
 
 Old documentation location: [http://www.williammeitzen.com/postgresql-explain-graph/](http://www.williammeitzen.com/postgresql-explain-graph/)
 
 Display PostgreSQL JSON explain plans graphically!
+
+To download the latest version, click the **peg-[*].jar.zip** file above
 
 ![Time and Cost](/images/sr-time-and-cost-sliders-gif.gif)
 
