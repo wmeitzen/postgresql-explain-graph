@@ -6,7 +6,7 @@ Old documentation location: [http://www.williammeitzen.com/postgresql-explain-gr
 
 Display PostgreSQL JSON explain plans graphically!
 
-To download the latest version, click the **peg-[*].jar.zip** file above
+To download the latest version, click the <b>peg-*.jar.zip</b> file above
 
 ![Time and Cost](/images/sr-time-and-cost-sliders-gif.gif)
 
