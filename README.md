@@ -6,6 +6,6 @@ Old documentation location: [http://www.williammeitzen.com/postgresql-explain-gr
 
 Display PostgreSQL JSON explain plans graphically!
 
-sr-time-and-cost-sliders-gif.gif
-
 ![Time and Cost](/images/sr-time-and-cost-sliders-gif.gif)
+
+![Expand to See Worker Info](/images/sr-workers-gif.gif)
