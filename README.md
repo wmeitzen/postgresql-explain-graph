@@ -1,4 +1,4 @@
-# postgresql-explain-graph
+# PostgreSQL Explain Graph
 
 New documentation location: [wiki](wiki).
 
