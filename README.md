@@ -2,7 +2,7 @@
 
 Display PostgreSQL JSON explain plans graphically!
 
-New documentation location: [wiki](../../../postgresql-explain-graph/wiki).
+New documentation location: [Documentation Wiki](../../../postgresql-explain-graph/wiki).
 
 Old documentation location: [http://www.williammeitzen.com/postgresql-explain-graph/](http://www.williammeitzen.com/postgresql-explain-graph/)
 
