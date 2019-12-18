@@ -6,7 +6,7 @@ Display PostgreSQL JSON explain plans graphically!
 
 https://github.com/wmeitzen/postgresql-explain-graph/wiki/Installing-PostgreSQL-Explain-Graph
 
-[Installing PostgreSQL Explain Graph](../wiki/Installing-PostgreSQL-Explain-Graph) - Instructions for Windows, Linux and Mac
+[Installing PostgreSQL Explain Graph](../../wiki/Installing-PostgreSQL-Explain-Graph) - Instructions for Windows, Linux and Mac
 
 [Installing PostgreSQL Explain Graph](Installing-PostgreSQL-Explain-Graph) - Instructions for Windows, Linux and Mac
 
