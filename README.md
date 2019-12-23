@@ -1,6 +1,6 @@
 # PostgreSQL Explain Graph
 
-Display PostgreSQL JSON explain plans graphically!
+Display PostgreSQL JSON explain plans graphically!  Tested on PostgreSQL 9.3 - 12.1.
 
 # Table of Contents
 
