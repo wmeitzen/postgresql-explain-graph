@@ -20,4 +20,4 @@ To download the latest version, click the <b>peg-*.jar.zip</b> file above.  That
 
 # Gratitude
 
-Many thanks from Akila Muthuveeraganapathy, depesz (Hubert Lubaczewski), Thomas Munro, Stanislav Silin from Upwork, people on IRC channel #postgresql, people on the Postgres slack channel, and others!
+Many thanks from Akila Muthuveeraganapathy, Hubert "depesz" Lubaczewski, Thomas Munro, Stanislav Silin from Upwork, people on IRC channel #postgresql, people on the Postgres slack channel, and others!
