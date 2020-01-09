@@ -12,7 +12,7 @@ Display PostgreSQL JSON explain plans graphically!  Tested on PostgreSQL 9.3 - 1
 
 [Changelog](../../wiki/Changelog)
 
-The latest **peg-*.jar.zip** file above contains one file, **peg.jar**.  That's the only file you'll need, other than Java.
+The **peg-*.jar.zip** file above contains one file, **peg.jar**.  That's the only file you'll need, other than Java.
 
 SCREENSHOTS:
 ![Time and Cost](/images/sr-time-and-cost-sliders-gif.gif)
